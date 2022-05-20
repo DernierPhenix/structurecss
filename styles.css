@@ -1,0 +1,41 @@
+h1{
+    font-size: small;
+}
+.titre_pcp{
+    font-size: 2.8em;
+    text-align: center;
+    }
+nav{
+    width: 80%;
+    text-align: center;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: #dbd5d5;
+    box-shadow: 6px 6px 6px black;
+    padding: 10px 0 10px 0;
+    margin: auto;
+    
+}
+
+.image{
+    float: left;
+    border: 2px black solid;
+    border-radius: 10px;
+    background-color: #dbd5d5;
+    box-shadow: 6px 6px 6px black;
+}
+a:hover{
+    color: green;
+}
+.dessous{
+    clear: both;
+}
+
+.art{
+    font-size: 1.8em;
+}
+
+.arth2{
+    font-size: 1.2em;
+    
+}
